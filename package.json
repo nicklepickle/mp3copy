@@ -1,0 +1,15 @@
+{
+  "name": "mp3copy",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "nicklepickle",
+  "license": "ISC",
+  "dependencies": {
+    "music-metadata": "^7.11.4",
+    "urlencode": "^1.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
